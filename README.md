@@ -125,3 +125,4 @@ WPF中的资源的概念有点类似 web 技术中的静态资源的概念。可
 
 ## 代码
 
+https://github.com/Naylor55/WPF-Taste/tree/main/resource/ResourceTaste
